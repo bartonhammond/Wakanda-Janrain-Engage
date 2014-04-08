@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+<allow action="read" groupID="E3FE2C7197B59A47BCE2F510690ACE19" resource="janrain.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="E3FE2C7197B59A47BCE2F510690ACE19" resource="janrain.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="E3FE2C7197B59A47BCE2F510690ACE19" resource="janrain.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="E3FE2C7197B59A47BCE2F510690ACE19" resource="janrain.User" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>

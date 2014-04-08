@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+	<allow type="module" resource="admin" action="executeFromClient" groupID="91BA0C8218E048CDA149A97D061954A0"/>
+</permissions>
