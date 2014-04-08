@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><solution>
 	<project path="../wakanda-janrain/wakanda-janrain.waProject"/>
-	<file path="./Permissions.waPerm">
-		<tag name="permissions"/>
-	</file>
 	<file path="./Directory.waDirectory">
 		<tag name="directory"/>
 	</file>
