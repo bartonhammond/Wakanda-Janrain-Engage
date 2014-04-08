@@ -79,6 +79,6 @@ function janrainresponse(request, response) {
 	
 	//http://forum.wakanda.org/showthread.php?1245-redirect-to-a-given-url-from-server-side&highlight=redirect
 	response.statusCode = 307; // Temporary Redirect
-	response.headers.Location = 'allusers.html';
+	response.headers.Location = '/allusers.waPage/index.html';
 	
 }
